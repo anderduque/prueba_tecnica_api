@@ -1,0 +1,14 @@
+{
+  "dev": {
+    "sc01": {
+      "id": 1,
+      "username": "AndersonDuque",
+      "firstName": "Anderson",
+      "lastName": "Duque",
+      "email": "anderduquem19@gmail.com",
+      "password": "admin1234",
+      "phone": "+56969166315",
+      "userStatus": 1
+    }
+  }
+}

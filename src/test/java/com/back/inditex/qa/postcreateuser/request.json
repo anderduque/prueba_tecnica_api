@@ -1,0 +1,10 @@
+{
+  "id": "#(dataTest.id)",
+  "username": "#(dataTest.username)",
+  "firstName": "#(dataTest.firstName)",
+  "lastName": "#(dataTest.lastName)",
+  "email": "#(dataTest.email)",
+  "password": "#(dataTest.password)",
+  "phone": "#(dataTest.phone)",
+  "userStatus": "#(dataTest.userStatus)"
+}

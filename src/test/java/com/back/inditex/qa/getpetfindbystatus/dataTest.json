@@ -1,0 +1,13 @@
+{
+  "dev":{
+    "sc01":{
+      "status": "available"
+    },
+    "sc02": {
+      "status": "pending"
+    },
+    "sc03": {
+      "status": "sold"
+    }
+  }
+}
